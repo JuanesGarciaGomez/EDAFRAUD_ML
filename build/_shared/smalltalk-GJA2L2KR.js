@@ -1,1 +1,1 @@
-import{a}from"EDAFRAUD_ML/build/_shared/chunk-ORLPW2AN.js";import"EDAFRAUD_ML/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/myst_assets_folder/_shared/chunk-ORLPW2AN.js";import"/myst_assets_folder/_shared/chunk-OZE3FFNP.js";export default a();

@@ -1,1 +1,1 @@
-import{a}from"EDAFRAUD_ML/build/_shared/chunk-FQLWQKN7.js";import"EDAFRAUD_ML/build/_shared/chunk-R3ABELDT.js";import"EDAFRAUD_ML/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/EDAFRAUD_ML/build/_shared/chunk-FQLWQKN7.js";import"/EDAFRAUD_ML/build/_shared/chunk-R3ABELDT.js";import"/EDAFRAUD_ML/build/_shared/chunk-OZE3FFNP.js";export default a();
